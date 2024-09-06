@@ -1,0 +1,68 @@
+body {
+    background-color: #a4c3b2;
+    height: 90vh;
+    margin: 0;
+}
+nav {
+    text-align: center;
+    margin-top: 60px;
+}
+#nTwo {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    width: 100%;
+}
+#haslo {
+    background-color: #91c9c5;
+    width: 20rem;
+    height: 50px;
+    text-align: left;
+    margin: 0px auto 0px auto;
+    border-radius: 5px;
+    border: double
+}
+#haslo p {
+    float: left;
+    margin-left: 10px;
+    cursor: default;
+    
+}
+#wynik {
+    width: 210px;
+    margin-left: 10px;
+    text-align: center
+}
+#opcje {
+    cursor: default;
+    border: inset #69f5ff ;
+    width: fit-content;
+}
+#opcje div {
+    width: fit-content;
+    text-align: center;
+}
+.o input{
+    margin: 0px 70px 0px 70px;
+    cursor: pointer;
+}
+#przycisk button {
+    width: 100px;
+    height: 50px;
+    border-radius: 9px;
+    background-color: #ffbf69;
+}
+#przycisk{
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#main {
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+#dl {
+    padding-top: 20px;
+    margin:auto;
+}
